@@ -6,9 +6,14 @@ This is an API automation framework built using Java, Maven, RestAssured, and Te
 
 - Java 8 or higher
 - Maven 3.6.0 or higher
+- TestNG
 ## How to Run 
 - Add all maven dependency from pom.xml
 - Run testng.xml file
+
+## Reporting 
+- TestNg report -> to generate in intellij -> Select configuration -> Select TestNG -> Listeners Tick Use default reporters
+
 ## Project Structure
 
 ├───.idea
