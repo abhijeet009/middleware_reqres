@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.class
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+# Maven build directories
+target/
+
+# IDE files (Eclipse)
+.classpath
+.project
+.settings/
+
+# IDE files (IntelliJ IDEA)
+.idea/
+*.iml
