@@ -14,6 +14,10 @@ This is an API automation framework built using Java, Maven, RestAssured, and Te
 ## Reporting 
 - TestNg report -> to generate in intellij -> Select configuration -> Select TestNG -> Listeners Tick Use default reporters
 
+## Setup for reports
+
+https://github.com/abhijeet009/middleware_reqres/assets/47745613/d68a08d3-d223-4e11-bec2-b0020c2695c8
+
 ## Project Structure
 
 ├───.idea
