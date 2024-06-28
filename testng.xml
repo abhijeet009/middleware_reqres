@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="middleware_reqres/Assognment_Reqres">
+        <classes>
+            <class name="testCase.GetAllUsers">
+                <methods>
+                    <include name="getAllUsers"/>
+                </methods>
+            </class>
+            <class name="testCase.Login">
+                <methods>
+                    <include name="login"/>
+                    <include name="logOut"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
